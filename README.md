@@ -23,7 +23,7 @@ Before running this application, make sure you have the following installed:
 1. Clone the repository and navigate into the project directory:
     ```bash
     git clone https://github.com/Winnode/Sol-multisender
-    cd SOL_MultiSender-main
+    cd Sol-multisender
     ```
 
 2. Install the required dependencies:
