@@ -1,0 +1,19 @@
+{
+  "name": "sol-multisender",
+  "version": "1.0.0",
+  "description": "A Solana multisender application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.0.0",
+    "readline-sync": "^1.4.10",
+    "chalk": "^5.0.0",
+    "dotenv": "^10.0.0",
+    "fs": "0.0.1-security",
+    "boxen": "^6.2.1"
+  },
+  "author": "Winnode",
+  "license": "ISC"
+}
