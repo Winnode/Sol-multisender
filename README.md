@@ -29,6 +29,9 @@ Before running this application, make sure you have the following installed:
 2. Install the required dependencies:
     ```bash
     npm install
+    or
+    npm install @solana/web3.js chalk dotenv readline-sync bs58 boxen
+
     ```
 
 3. Create a `.env` file in the root directory and add the following content:
