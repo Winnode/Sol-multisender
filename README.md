@@ -1,4 +1,7 @@
 # Solana MultiSender
+![Dashboard Interface](https://github.com/Winnode/Sol-multisender/blob/main/sample.png "Dashboard")
+
+
 
 ## Overview
 
